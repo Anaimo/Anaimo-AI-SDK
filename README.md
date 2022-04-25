@@ -4,13 +4,13 @@
 The Anaimo Neural Network is a proprietary software library which allows to create, train, and use neural networks for whatever application developed in C/C++, C#, VB.NET and more. Its main characteristics are:
 
 **Optimized:**<br />
-For computational high speed.<br />
-To dynamically consume the least memory possible.<br />
+- For computational high speed.<br />
+- To dynamically consume the least memory possible.<br />
 <br />**Cloud or on-premises** (Edge AI).<br />
-<br />**Auto adaptative:** 
-It can self-adapt its topology for faster and better performance, like the human brain.<br />
-<br />**Unlimited:**
-In RAM and CPU.
+<br />**Auto adaptative:** <br />
+- It can self-adapt its topology for faster and better performance, like the human brain.<br />
+<br />**Unlimited:**<br />
+- In RAM and CPU.
 
 **Windows:** file AnaimoAI.dll
 **Linux (and potentially MacOS):** libAnaimoAI_nn.a
