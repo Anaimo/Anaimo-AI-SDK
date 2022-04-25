@@ -6,6 +6,7 @@ The Anaimo Neural Network is a proprietary software library which allows to crea
 **Optimized:**<br />
 - For computational high speed.<br />
 - To dynamically consume the least memory possible.<br />
+
 **Cloud or on-premises** (Edge AI).<br />
 **Auto adaptative:**<br />
 - It can self-adapt its topology for faster and better performance, like the human brain.<br />
