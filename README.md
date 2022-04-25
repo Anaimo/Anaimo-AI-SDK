@@ -15,7 +15,6 @@ The Anaimo Neural Network is a proprietary software library which allows to crea
 **Unlimited:**<br />
 - In RAM and CPU.<br />
 
-
 - **Windows:** file AnaimoAI.dll <br />
 - **Linux (and potentially MacOS):** libAnaimoAI_nn.a <br />
 - **Windows (Win32) COM compatible:** AnaimoAI.dll <br />
