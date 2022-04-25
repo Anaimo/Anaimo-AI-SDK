@@ -18,7 +18,7 @@ In RAM and CPU.
 **Windows (Win32) COM compatible:** AnaimoAI.dll
 
 ## User`s Guide
-Visit our Academy on [Anaimo web site](https://anaimo.com/academy/) or click [here](https://anaimo.com/academy/neural-networks-users-guide/neural-networks-users-guide/)
+Visit our Academy on [Anaimo web site](https://anaimo.com/academy/) or click [here](https://anaimo.com/academy/neural-networks-users-guide/neural-networks-users-guide/).
 
 ## Unlimited Version
 To use more than 1000 neurons [get your unlimited](https://anaimo.com/shop/) version for 99 € / year / device + VAT.
